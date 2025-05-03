@@ -197,10 +197,10 @@ nav ul li a:hover::after {
         margin-top: 0;
     }
 
-    .nav {
+    nav {
         width: 80%;
         display: flex;
-        justify-content: space-between;
+        justify-content: space-around;
     }
 
     .ramen-pic img {
